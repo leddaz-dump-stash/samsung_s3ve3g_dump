@@ -1,0 +1,14 @@
+# s3ve3gxx-user 4.4.2 KOT49H I9301IXCSAQE1 release-keys
+- manufacturer: samsung
+- platform: msm8226
+- codename: s3ve3g
+- flavor: user
+- release: 4.4.2
+- id: KOT49H
+- incremental: I9301IXCSAQE1
+- tags: release-keys
+- fingerprint: samsung/s3ve3gxx/s3ve3g:4.4.2/KOT49H/I9301IXCSAQE1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: s3ve3gxx-user-4.4.2-KOT49H-I9301IXCSAQE1-release-keys
+- repo: samsung_s3ve3g_dump
